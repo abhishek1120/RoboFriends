@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Harry Potter Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Harry Potter Regular"), url("HARRP___.woff") format("woff");
+}
+
+h1 {
+  font-family: "Harry Potter Regular";
+  font-weight: 400;
+  color: #a4fff7;
+}
